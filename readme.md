@@ -4,6 +4,13 @@
 
 The Library Management System is a full-stack web application designed to streamline the management of library books and transactions. Built using Node.js, Express, MongoDB, and Bootstrap, the system allows users to perform CRUD operations on books and handle borrowing and returning of books efficiently.
 
+<img width="1639" alt="Screenshot 2024-08-01 at 3 42 41 PM" src="https://github.com/user-attachments/assets/770498b5-8588-41e2-9002-5a310da01bc5">
+<img width="1639" alt="Screenshot 2024-08-01 at 3 42 07 PM" src="https://github.com/user-attachments/assets/5810cc30-8aa4-4909-8749-97aec20f5c63">
+<img width="1639" alt="Screenshot 2024-08-01 at 3 41 59 PM" src="https://github.com/user-attachments/assets/1ce48e66-6016-4d10-a566-fe6f652c2b2a">
+<img width="1436" alt="Screenshot 2024-08-01 at 3 42 24 PM" src="https://github.com/user-attachments/assets/08b901a3-ea58-4487-9e10-53a15db30f0e">
+
+
+
 ## Features
 <br><br>
 <h4>📖 Book Management: Add, edit, delete, and view books in the library.
